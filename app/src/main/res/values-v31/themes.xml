@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.OrangeKeyboard" parent="Theme.Material3.DynamicColors.Dark.NoActionBar">
+    <style name="Theme.OrangeKeyboard" parent="Theme.Material3.Dark.NoActionBar">
         <item name="android:statusBarColor">@android:color/transparent</item>
         <item name="android:navigationBarColor">@android:color/system_neutral1_900</item>
     </style>
