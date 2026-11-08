@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="keyboard_background">#12100D</color>
-    <color name="key_background">#1F1B16</color>
+    <color name="keyboard_background">#0A0A0A</color>
+    <color name="key_background">#1A1A1A</color>
     <color name="key_pressed">#FF6B1C</color>
-    <color name="key_ripple">#40FF6B1C</color>
-    <color name="key_text">#F5F3F0</color>
-    <color name="key_stroke">#2A251F</color>
+    <color name="key_ripple">#80FF6B1C</color>
+    <color name="key_text">#FFFFFF</color>
+    <color name="key_stroke">#FF6B1C</color>
     <color name="accent_orange">#FF6B1C</color>
+    <color name="accent_glow">#40FF6B1C</color>
 </resources>

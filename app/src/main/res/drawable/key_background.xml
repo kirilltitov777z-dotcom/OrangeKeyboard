@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
-    android:color="@color/key_ripple">
+    android:color="#80FF6B1C">
     <item>
         <shape android:shape="rectangle">
-            <solid android:color="@color/key_background" />
-            <corners android:radius="16dp" />
+            <solid android:color="#1A1A1A" />
+            <corners android:radius="999dp" />
             <stroke
-                android:width="0.5dp"
-                android:color="@color/key_stroke" />
+                android:width="2dp"
+                android:color="#FF6B1C" />
         </shape>
     </item>
 </ripple>
